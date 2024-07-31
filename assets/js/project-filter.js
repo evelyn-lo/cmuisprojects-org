@@ -6,23 +6,23 @@ $(document).ready(function () {
   
   $("select").formSelect();
 
-  $("select.select_all")
-    .siblings("ul")
-    .prepend('<li class="sm_select_all"><span>Select All</span></li>');
+  // $("select.select_all")
+  //   .siblings("ul")
+  //   .prepend('<li class="sm_select_all"><span>Select All</span></li>');
 
-  $("li.sm_select_all").on("click", function () {
-    var jq_elem = $(this),
-      jq_elem_span = jq_elem.find("span"),
-      select_all = jq_elem_span.text() == "Select All",
-      set_text = select_all ? "Select None" : "Select All";
-    jq_elem_span.text(set_text);
-    jq_elem
-      .siblings("li")
-      .filter(function () {
-        return $(this).find("input").prop("checked") != select_all;
-      })
-      .click();
-  });
+  // $("li.sm_select_all").on("click", function () {
+  //   var jq_elem = $(this),
+  //     jq_elem_span = jq_elem.find("span"),
+  //     select_all = jq_elem_span.text() == "Select All",
+  //     set_text = select_all ? "Select None" : "Select All";
+  //   jq_elem_span.text(set_text);
+  //   jq_elem
+  //     .siblings("li")
+  //     .filter(function () {
+  //       return $(this).find("input").prop("checked") != select_all;
+  //     })
+  //     .click();
+  // });
 
   $("#tech").on("change", function () {
     var selectedValues = [];
@@ -86,11 +86,11 @@ $(document).ready(function () {
         var techCompanies = data.filter(function (company) {
           let filterSdg =
             sdg?.length > 0
-              ? sdg.every((item) => company.sdg?.includes(item))
+              ? sdg.some((item) => company.sdg?.includes(item))
               : true;
           let filterTechnology =
             tech?.length > 0
-              ? tech.every((item) => company.tech?.includes(item))
+              ? tech.some((item) => company.tech?.includes(item))
               : true;
 
           // let filterYear =
