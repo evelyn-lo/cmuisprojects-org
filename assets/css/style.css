@@ -70,6 +70,13 @@ a {
   transition: 0.3s ease-in-out;
 }
 
+.imgCentered {
+  max-height: 100%;
+  max-width: 100%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
 .exectiveSummeryBtn {
   width: 250px;
   height: 50px;

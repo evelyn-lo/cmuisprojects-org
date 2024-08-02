@@ -146,11 +146,25 @@ $(document).ready(function () {
         });
         
         //Reverse the list here to make sure that the most recent projects are at the top and oldest at the bottom
-        yearsList = (Object.keys(projectsByYear)).reverse()
+        let yearsList = Object.keys(projectsByYear).reverse();
 
         // Render projects with headings
         yearsList.forEach((year) => {
-          const yearProjects = projectsByYear[year];
+          let yearProjects = projectsByYear[year];
+
+          // Sort projects alphabetically by partner name
+          yearProjects.sort((a, b) => {
+            let nameA = a.partner.toUpperCase();
+            let nameB = b.partner.toUpperCase();
+            if (nameA < nameB) {
+              return -1;
+            }
+            if (nameA > nameB) {
+              return 1;
+            }
+            return 0;
+          });
+
           if (yearProjects.length > 0) {
             // Append year heading
             $companyWrapperContainer.append(
@@ -189,7 +203,7 @@ $(document).ready(function () {
                 }
               });
 
-              const imgElement = $('<img class="img-fluid" alt=""/>').attr(
+              const imgElement = $('<img class="img-fluid imgCentered" alt=""/>').attr(
                 "src",
                 project?.logo
               );

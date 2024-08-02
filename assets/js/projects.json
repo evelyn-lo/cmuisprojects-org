@@ -1014,7 +1014,7 @@
     ],
     "desc": "Working with PRC and ZWPA, we hope to implement a web application to facilitate data entry, management, and storage in regards to the waste auditing process. In particular, we aim to expedite the Initial Site Visit Questionnaire by allowing direct input, as well as enabling a web option that allows ZWPA staff members to quickly complete necessary fields. ZWPA auditors will also be able to quickly and digitally complete waste audit forms representative of current paper spreadsheets. Audit information will then be downloadable and available for instant analysis. Complementing all of these features is an organized system of note-taking and tracking that can be associated with specific projects and clients.",
     "logo": "assets/img/project_logos/spring2015/36.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/36.pdf",
+    "pdf": "assets/img/project_pdfs/spring2015/36.pdf",
     "sdg": [
       ""
     ],
@@ -1040,7 +1040,7 @@
     ],
     "desc": "Our vision for this project was to create an iOS mobile application that allowed students and recruiters to manage and create connections during career fairs. More specifically, we wanted to create a queuing system to be used at career fairs. Similar to waiting in line at a restaurant, the student would be able put themselves on a queue for a particular recruiter at a company. When it is their time to have a conversation with the recruiter, the recruiter can easily view their resume on the application and leave real-time feedback about their conversation and prospects for potential opportunities with the company. Student and companies can easily sort through the interactions they had throughout the day. Through the use of VitaeFly, the users are able to save time and paper so that they can spend their time making meaningful connections at the career fair instead of waiting in line.",
     "logo": "assets/img/project_logos/spring2015/37.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/37.pdf",
+    "pdf": "assets/img/project_pdfs/spring2015/37.pdf",
     "sdg": [
       ""
     ],
@@ -1172,7 +1172,7 @@
     ],
     "desc": "The student team’s vision was simplifying the existing information structure and creating a user friendly website. By reorganizing the complicated information structure of the original website, the team would enhance clarity and information coordination. By doing so, the team aimed to strengthen the organization’s brand so that visitors can have clear understanding of Pittsburgh Youth Chorus’s image and purpose. In order to satisfy such vision and create sustainability, the team decided to implement WordPress, a content management system that is widely-used. WordPress allows anybody to easily work with websites, even with no programming experience. In addition, it offers numerous features, which 29 meet different needs such as e-commerce and search engine optimization. In summary, the project’s vision was to create a website which is user-friendly not only to visitors, but also to future administrators.",
     "logo": "assets/img/project_logos/spring2015/42.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/42.pdf",
+    "pdf": "assets/img/project_pdfs/spring2015/42.pdf",
     "sdg": [
       ""
     ],
@@ -1227,7 +1227,7 @@
     ],
     "desc": "In today’s fast-paced world most Americans carry a smartphone everywhere they go. Smartphones provide a platform for mobile apps that are easy to use and contain rich information. Additionally, smartphones are rarely left at home and they do not wear out like paper. The goal of the Phipps Conservatory Member Card App was to design, develop, and deploy a smart replacement for Phipps’ paper member cards. The app would not only provide an electronic member card, but give members the ability to change their information, see recent news, and download smartphone wallpapers.",
     "logo": "assets/img/project_logos/spring2015/44.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/44.pdf",
+    "pdf": "assets/img/project_pdfs/spring2015/44.pdf",
     "sdg": [
       ""
     ],
@@ -1254,7 +1254,7 @@
     ],
     "desc": "This solution will benefit the course instructors, as it enables them to create a larger and more engaged alumni community, by giving alumni access to valuable course content. This expanded community is a key goal for the CIE. This will also benefit the course administrators, as it saves them from the laborious process of manually creating accounts for each student. Finally, it will benefit the alumni community, as it gives them access and keeps them engaged. Our vision for the project evolved over time from a custom solution into a workflow that allowed our clients to continue using Canvas, led by our client’s desire for maintainability.",
     "logo": "assets/img/project_logos/spring2015/45.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/45.pdf",
+    "pdf": "assets/img/project_pdfs/spring2015/45.pdf",
     "sdg": [
       ""
     ],
@@ -1328,7 +1328,7 @@
     ],
     "desc": "In an effort to fulfill CBPD’s goals, our initial project vision was to conduct surveys and interviews on our key stakeholders: students, faculty and staff, Facilities Management Services (FMS) to get their opinions on issues related to campus energy consumption and future efforts to conserve energy on-campus. After the research phase, we would analyze our results and brainstorm the best technological solution to resolve CBPD’s problem. We would hope to come up with a sufficient number of use cases for our technological solution and explore ways in which the student body can interact with it to see campus energy consumption and file complaints to FMS.",
     "logo": "assets/img/project_logos/spring2015/48.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/48.pdf",
+    "pdf": "assets/img/project_pdfs/spring2015/48.pdf",
     "sdg": [
       ""
     ],
@@ -1354,7 +1354,7 @@
     ],
     "desc": "The primary goal of this project was to ensure that the registration process for all parties shifted from a paper-based system to an electronic one. To do so, we redesigned the existing application infrastructure and developed a new comprehensive application. After learning about issues faced during the 2014 registration and speaking with both the client and former team, our project vision was also aimed towards bolstering the features of the existing system and developing new features to improve the experience for all stakeholders.",
     "logo": "assets/img/project_logos/spring2015/49.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/49.pdf",
+    "pdf": "assets/img/project_pdfs/spring2015/",
     "sdg": [
       ""
     ],
@@ -2304,12 +2304,18 @@
       "67-373"
     ],
     "representatives": [
-      ""
+      "Robert Foy",
+      "Damon Hargraves",
+      "Jennifer Newby"
     ],
-    "students": [],
-    "desc": "",
+    "students": [
+      "Connor Fitzgibbon",
+      "Hera Miao",
+      "Rich Zhu"
+    ],
+    "desc": "This project is done in partnership between the Kodiak Island Borough School District and the NOAA Kodiak Lab. The Kodiak Island Borough School District is a public school district made up of four elementary schools, one middle school, one high school, and one home school education program in Kodiak, Alaska. The Kodiak Lab is part of NOAA’s Shellfish Assessment Program, which seeks to assess the distribution and abundance of commercially important crab resources in the eastern Bering Sea. Shellfish Assessment scientists collect data which are used to aid in the fishing industry in locating productive fishing grounds and help Crab Fisheries Management regulate takes to improve the viability of future crab stocks.",
     "logo": "assets/img/project_logos/spring2018/86.png",
-    "pdf": "assets/img/project_pdfs/spring2018/.pdf",
+    "pdf": "assets/img/project_pdfs/spring2018/86.pdf",
     "sdg": [
       ""
     ],
@@ -3119,7 +3125,7 @@
   },
   {
     "id": 117,
-    "partner": "Pitsburgh Fellows Alumni Association",
+    "partner": "Pittsburgh Fellows Alumni Association",
     "year": "2019",
     "course": [
       "67-373"
@@ -3220,32 +3226,7 @@
       "workandeconomicgrowth"
     ],
     "tech": [
-      "webapp"
-    ]
-  },
-  {
-    "id": 121,
-    "partner": "Smart Futures",
-    "year": "2019",
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "David Mosey"
-    ],
-    "students": [
-      "Philip Baker",
-      "Joshua Huang",
-      "Albert Yuan"
-    ],
-    "desc": "Smart Futures provides online career education resources and training to schools and community-based organizations in Pennsylvania. The CMU IS students integrated G Suite tools into the Smart Futures platform to improve the organization’s developer onboarding process and implement Google Single Sign On functionality for all users.",
-    "logo": "assets/img/project_logos/spring2019/121.png",
-    "pdf": "assets/img/project_pdfs/spring2019/121.pdf",
-    "sdg": [
-      "qualityeducation",
-      "workandeconomicgrowth"
-    ],
-    "tech": [
+      "webapp",
       "softwareintegration"
     ]
   },
@@ -3835,7 +3816,7 @@
       "Abhi Maddineni, Christopher May, Eugene Choi"
     ],
     "desc": "Wesley Family Services' mission is to provide all children, adults, and families in need with transformational care. The CMU IS students redesigned the database schema and built a new web application to replace an existing client tracking software that was riddled with data loss and duplication issues. With this new application, call center staff will be able to more seamlessly and reliably enter client and inquiry details so that their clients can get access to the care they need without issues.",
-    "logo": "assets/img/project_logos/spring2020/17.jpg",
+    "logo": "assets/img/project_logos/spring2020/17.png",
     "pdf": "assets/img/project_pdfs/spring2020/17.pdf",
     "sdg": [
       "equality",
@@ -3860,7 +3841,7 @@
       "Miheer Lele, Jeffrey Chiu, Anant Agrawal"
     ],
     "desc": "The mission is to celebrate and share the joy of vegan food, connect vegans all around the world, and show how easy it is to start eating vegan. The students optimized the website by improving run time, working on search engine optimization, and reorganizing the information hierarchy. They also made improvements to user experience, through redesigning the site, standardizing the design, and connecting with social media.",
-    "logo": "assets/img/project_logos/spring2020/18.png",
+    "logo": "assets/img/project_logos/spring2020/18.jpg",
     "pdf": "assets/img/project_pdfs/spring2020/18.pdf",
     "sdg": [
       "promotehealth"
