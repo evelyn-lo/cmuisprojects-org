@@ -1263,27 +1263,6 @@
     ]
   },
   {
-    "id": 46,
-    "partner": "Homeless Children's Education Fund",
-    "year": "2015",
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      ""
-    ],
-    "students": [],
-    "desc": "",
-    "logo": "assets/img/project_logos/spring2015/46.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/",
-    "sdg": [
-      ""
-    ],
-    "tech": [
-      ""
-    ]
-  },
-  {
     "id": 47,
     "partner": "Family Tyes",
     "year": "2015",
@@ -1329,32 +1308,6 @@
     "desc": "In an effort to fulfill CBPD’s goals, our initial project vision was to conduct surveys and interviews on our key stakeholders: students, faculty and staff, Facilities Management Services (FMS) to get their opinions on issues related to campus energy consumption and future efforts to conserve energy on-campus. After the research phase, we would analyze our results and brainstorm the best technological solution to resolve CBPD’s problem. We would hope to come up with a sufficient number of use cases for our technological solution and explore ways in which the student body can interact with it to see campus energy consumption and file complaints to FMS.",
     "logo": "assets/img/project_logos/spring2015/48.jpg",
     "pdf": "assets/img/project_pdfs/spring2015/48.pdf",
-    "sdg": [
-      ""
-    ],
-    "tech": [
-      ""
-    ]
-  },
-  {
-    "id": 49,
-    "partner": "Best of the Batch Foundation",
-    "year": "2015",
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Latasha Wilson-Batch"
-    ],
-    "students": [
-      "Roei Curi-Hoory",
-      "Pranita Ramakrishnan",
-      "Siddarth Sivakumar",
-      "Allison Wilson"
-    ],
-    "desc": "The primary goal of this project was to ensure that the registration process for all parties shifted from a paper-based system to an electronic one. To do so, we redesigned the existing application infrastructure and developed a new comprehensive application. After learning about issues faced during the 2014 registration and speaking with both the client and former team, our project vision was also aimed towards bolstering the features of the existing system and developing new features to improve the experience for all stakeholders.",
-    "logo": "assets/img/project_logos/spring2015/49.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/",
     "sdg": [
       ""
     ],
@@ -1486,32 +1439,6 @@
     "desc": "Based on the need of the client, we envision a solution that allows the intuitive creation of evaluation rubrics to be used as machine learning training data. Simply, this solution should allow people to tag appropriate skills demonstrated in videos, and chain those skills into larger sets of skills. The narrative, as informed by our conversations with the client, demonstrates that the creation of these KSA rubrics is imperative to enable the eventual functionality of their computer vision-enabled evaluation tool.",
     "logo": "assets/img/project_logos/spring2016/54.jpg",
     "pdf": "assets/img/project_pdfs/spring2016/54.pdf",
-    "sdg": [
-      ""
-    ],
-    "tech": [
-      ""
-    ]
-  },
-  {
-    "id": 55,
-    "partner": "Six Degrees of Francis Bacon",
-    "year": "2016",
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Christopher Warren",
-      "Jessica Otis"
-    ],
-    "students": [
-      "David Gao",
-      "Max Harlynking",
-      "Amy Li"
-    ],
-    "desc": "In order to increase the number of contributions to the Six Degrees of Francis Bacon website, the team planned to implement several new features so users can discover new responsive ways to interact with the website. These features included a points system so users can track their progress towards updating their account to Curator Status, an updated user profile, a leaderboard to compare their progress with other users, and a new form to contribute to the website. These new interactive features bring a fun element to how users utilize the website and gives them recognition for their contributions.",
-    "logo": "assets/img/project_logos/spring2016/55.jpg",
-    "pdf": "assets/img/project_pdfs/spring2016/55.pdf",
     "sdg": [
       ""
     ],
@@ -1824,33 +1751,6 @@
     "desc": "Our project is the first step towards deploying the prototype by providing heart rate analysis through a live demonstration of our client’s technology. The objective of our application is to allow anyone with a computer webcam to obtain their own heart rate by recording a video to be processed by our client’s technology. This technology challenges the existing market for wearable health monitors by eliminating the need for costly devices and focusing on the sole use of video input through a noninvasive technique. With increased accessibility and development, the potential applications of this technology are numerous, ranging from aiding security screening measures to medical use in developing countries.",
     "logo": "assets/img/project_logos/spring2017/67.jpg",
     "pdf": "assets/img/project_pdfs/spring2017/67.pdf",
-    "sdg": [
-      ""
-    ],
-    "tech": [
-      ""
-    ]
-  },
-  {
-    "id": 68,
-    "partner": "San Francisco Department on the Status of Women",
-    "year": "2017",
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Herschell",
-      "Carol Sacco"
-    ],
-    "students": [
-      "Connor Hanley",
-      "Amber Hu",
-      "Helen Kim",
-      "Sina Siddiqi"
-    ],
-    "desc": "After extensive research into pre-existing solutions and custom build options, our client and our team determined that the best solution would be to build a custom built web application to optimize the report submission, management, and storage procedure. The app would allow the grantee programs to submit the required report for the current quarter and allow our clients to store these submissions on the cloud for easy extraction at the end of the fiscal year. When grantee programs submit their reports, the app would rename the file appropriately and sort them into the relevant folders, reducing the manual labor on both our client and the grantee programs. The app should also allow our client to filter through the submissions and create custom downloads based on the files they need to reference. In addition to the web application, we also wanted to refactor their existing Master Excel to become more dynamic and sustainable based on the modified file directory system.",
-    "logo": "assets/img/project_logos/spring2017/68.jpg",
-    "pdf": "assets/img/project_pdfs/spring2017/68.pdf",
     "sdg": [
       ""
     ],
