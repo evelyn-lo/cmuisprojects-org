@@ -77,6 +77,41 @@ a {
   margin-right:auto;
 }
 
+/* General tag-box style */
+.tag-box {
+  display: inline-flex;
+  align-items: center;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  padding: 5px 10px;
+  margin: 5px;
+  border: 3px solid transparent; /* Default border (no outline) */
+  transition: border-color 0.3s ease;
+}
+
+/* Style for the circle inside the tag-box */
+.circle {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+/* Style for the tag name */
+.tag-name {
+  font-size: 12px;
+  color: #333; /* Adjust color as needed */
+}
+
+/* Style when the checkbox is checked */
+.tag-box:has(input[type="checkbox"]:checked)  {
+  border-color: #29a7d9 !important; /* Outline color */
+}
+
+label:hover{
+  border-color: #29a7d9 !important; /* Outline color */
+}
+
 .exectiveSummeryBtn {
   width: 250px;
   height: 50px;
@@ -107,6 +142,7 @@ a {
   cursor: pointer;
   transition: 0.3s ease-in-out;
   font-family: Domine;
+  text-align: center;
 
 }
 .Browse-Past-Projects:hover,
@@ -128,8 +164,12 @@ a {
 .imgOverlayTextCommunity{
   color:white;
   font-family: Josefin_Sans;
-  font-size: 310%;
+  font-size: 350%;
   margin-left:5%;
+}
+
+.communityText{
+  font-size: 200%;
 }
 
 .communityHours{
@@ -151,8 +191,8 @@ a {
 .customSize {
   width: 50% !important;
   margin: auto;
-  margin-top: 30%;
-  margin-bottom: -3%;
+  margin-top: 50%;
+  margin-bottom: 3%;
 }
 
 .sdgImg{
@@ -183,19 +223,92 @@ a {
   transition: all 0.3s ease-in-out;
 }
 
+.checkbox-group{
+  text-align: center;
+  padding:2% 10% 0% 10% ;
+  min-width: 100%;
+}
+
+.accordion-item{
+  height:50%;
+  border: none;
+  padding:0%;
+  width: 95%;
+  text-align: left !important;
+}
+/* 
+.filters{
+  background-color: #5e5e5e;
+} */
+/* .accordion{
+  border: 2px solid rgb(199, 199, 199);
+} */
+
+.accordion-button{
+  background-color: #e8e8e8;
+}
+.cardCommunity {
+  position: relative;
+  overflow: hidden;
+  height:100%;
+}
+
+.iconCommunity {
+  transition: opacity 0.5s ease;
+}
+
+.card-img-overlay{
+  transition: opacity 0.5s ease;
+}
+
+.card-title{
+  transition: opacity 0.5s ease;
+}
+
+.overlay-text {
+  opacity: 0;
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #fff; /* Adjust color based on your design */
+  transition: opacity 0.5s ease;
+  font-size: large;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.cardCommunity:hover .iconCommunity {
+  opacity: 0;
+}
+
+.cardCommunity:hover .overlay-text {
+  opacity: 1;
+}
+
+.cardCommunity:hover .card-img-overlay {
+  opacity: 0;
+}
+
+.cardCommunity:hover .card-title {
+  opacity: 0;
+}
+
 .cardSDG {
   position: relative; /* Ensure .cardSDG is a positioned container */
-  width: 15%; /* Fixed width */
-  height: 270px; /* Fixed height for the card */
+  height: 300px; /* Fixed height for the card */
   display: flex;
   flex-direction: column;
   align-items: center; /* Center items horizontally */
   justify-content: center; /* Center items vertically */
   overflow: hidden;
+  cursor: pointer;
+
 }
 
 .card-body {
   width: 100%; 
+  height:150px;
   display: flex;
   flex-direction: column;
   align-items: center; /* Center text horizontally */
@@ -805,16 +918,16 @@ h1{
   color: white;
 }
 
-.checkbox-custom,
+/* .checkbox-custom,
 .radio-custom {
   display: inline-block;
   vertical-align: middle;
-  width: 20px; /* Adjust size as needed */
-  height: 20px; /* Adjust size as needed */
-  background-color: #ddd; /* Default background color */
+  width: 20px; /* Adjust size as needed 
+  height: 20px; /* Adjust size as needed 
+  background-color: #ddd; /* Default background color 
   border-radius: 4px;
   cursor: pointer;
-}
+} */
 
 .submitBtn {
   width: 180px;
@@ -884,7 +997,7 @@ div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
   border-radius: 5px;
   max-width: 700px;
   max-height: 90vh;
-  animation: zoomIn 0.25s forwards;
+  animation: zoomIn 0.20s forwards;
   position: relative;
   overflow-y: auto;
   border: 2px solid #ccc;
@@ -960,3 +1073,41 @@ div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
 .projectsHeight{
   min-height: 50vh;
 }
+
+/* input[type="checkbox"] {
+  opacity: 0;
+  position: absolute;
+  z-index: -1;
+}  */
+
+
+/* 
+.side-panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 30%;
+  background: rgba(0, 0, 0, 0.5); 
+  color: #fff;
+  padding: 20px;
+  transition: transform 0.3s ease; 
+  transform: translateX(0);
+  z-index: 1000; 
+  overflow-y: auto;
+  display: inline-block;
+  flex-direction: column;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.side-panel .checkbox-group {
+  margin-bottom: 20px;
+}
+
+.side-panel .close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+} */
