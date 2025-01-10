@@ -17,7 +17,7 @@ $(document).ready(function () {
     "industryinnovationinfrastructure": "#5FA862",
     "reducedinequality": "#F43E25",
     "sustainablecities": "#544E48",
-    "responsibleconsumption": "#B0E320",
+    "responsibleconsumption": "#6c9300",
     "climateaction": "#F30D89",
     "lifebelowwater": "#1940A6",
     "lifeonland": "#764E12",
