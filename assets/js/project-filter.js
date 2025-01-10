@@ -164,7 +164,7 @@ $.ajax({
         if (yearProjects.length > 0) {
           // Append year heading
           $companyWrapperContainer.append(
-            `<h4 class="w-100 text-center text-red fw-semibold">Spring ${year}</h4>`
+            `<h1 class="w-100 text-center text-red fw-semibold">Spring ${year}</h4>`
           );
 
           // Append projects

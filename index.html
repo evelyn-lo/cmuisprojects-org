@@ -8,76 +8,67 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="./assets/css/style.css" />
-  <link rel="icon" type="image/png" href="./assets/img/CMUIS tab Icon.png">
+  <link rel="icon" type="image/png" href="./assets/img/CMUIS tab Icon.png" alt="ISIconLogo">
 
 
 </head>
-<div class="darkRed-bg text-white">
-  <div class="container d-flex justify-content-between align-items-center py-2">
-    <a href="index.html">
-      <img src="./assets/img/cmu-wordmark-horizontal-k.svg" class="img-fluid navLogo" alt="" />
-    </a>
-    <div class="d-none d-md-flex align-items-center menuGap">
-      <div class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
-          <h5 class="fw-bold m-0">Learn More</h5>
+<header>
+  <div class="darkRed-bg text-white">
+    <div class="container d-flex justify-content-between align-items-center py-2">
+      <a href="index.html">
+        <img src="./assets/img/cmu-wordmark-horizontal-k.svg" class="img-fluid navLogo" alt="cmuText" />
+      </a>
+      <div class="d-none d-md-flex align-items-center menuGap">
+        <div class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+            <p class="fw-bold m-0">Learn More</p>
+          </a>
+          <ul class="dropdown-menu">
+            <a class="dropdown-item" href="learn-more.html">What is a Community Partner?</a>
+            <a class="dropdown-item" href="consulting.html">67-373: IS Consulting Project</a>
+            <a class="dropdown-item" href="webdesign.html">67-240: Mobile Web Development</a>
+          </ul>
+        </div>
+        <div class="vbar"></div>
+        <a href="projects.html">
+          <p class="fw-bold m-0">Projects</p>
         </a>
+        <div class="vbar"></div>
+
+        <a href="application.html">
+          <p class="fw-bold m-0">Apply</p>
+        </a>
+      </div>
+      <div class="dropdown d-md-none">
+        <button class="btn btn-secondary dropdown-toggle bg-transparent border-0" type="button"
+          data-bs-toggle="dropdown" aria-expanded="false">
+          <i class="fa fa-bars fs-2" aria-hidden="true"></i>
+        </button>
         <ul class="dropdown-menu">
-          <a class="dropdown-item" href="learn-more.html">What is a Community Partner?</a>
-          <a class="dropdown-item" href="consulting.html">67-373: IS Consulting Project</a>
-          <a class="dropdown-item" href="webdesign.html">67-240: Mobile Web Development</a>
+          <li>
+            <a class="dropdown-item" href="learn-more.html">Learn More</a>
+          </li>
+          <li><a class="dropdown-item" href="consulting.html">67-373: IS Consulting Project</a> </li>
+          <li><a class="dropdown-item" href="webdesign.html">67-240: Mobile Web Development</a> </li>
+          <li><a class="dropdown-item" href="projects.html">Projects</a></li>
+          <li><a class="dropdown-item" href="application.html">Apply</a></li>
         </ul>
       </div>
-      <div class="vbar"></div>
-      <a href="projects.html">
-        <h5 class="fw-bold m-0">Projects</h5>
-      </a>
-      <div class="vbar"></div>
-
-      <a href="application.html">
-        <h5 class="fw-bold m-0">Apply</h5>
-      </a>
-    </div>
-    <div class="dropdown d-md-none">
-      <button class="btn btn-secondary dropdown-toggle bg-transparent border-0" type="button" data-bs-toggle="dropdown"
-        aria-expanded="false">
-        <i class="fa fa-bars fs-2" aria-hidden="true"></i>
-      </button>
-      <ul class="dropdown-menu">
-        <li>
-          <a class="dropdown-item" href="learn-more.html">Learn More</a>
-        </li>
-        <li><a class="dropdown-item" href="consulting.html">67-373: IS Consulting Project</a> </li>
-        <li><a class="dropdown-item" href="webdesign.html">67-240: Mobile Web Development</a> </li>
-        <li><a class="dropdown-item" href="projects.html">Projects</a></li>
-        <li><a class="dropdown-item" href="application.html">Apply</a></li>
-      </ul>
     </div>
   </div>
-
-</div>
-<header class="header-banner">
-  <div class="overlay">
-    <img src="./assets/img/CMUIS tab Icon.png" alt="Logo" class="logo">
-    <div class="line"></div>
-    <div class="text-container">
-      <h1>Carnegie Mellon University</h1>
-      <p>Information Systems Projects</p>
+  <div class="header-banner">
+    <div class="overlay">
+      <img src="./assets/img/CMUIS tab Icon.png" alt="Logo" class="logo">
+      <div class="line"></div>
+      <div class="text-container">
+        <h1>Carnegie Mellon University</h1>
+        <p>Information Systems Projects</p>
+      </div>
     </div>
-
   </div>
 </header>
-
 <body>
-
-  <div class="container">
-    <!-- <img
-        src="./assets/img/IS Logo.png"
-        class="img-fluid d-block mx-auto mainLoogo"
-        alt=""
-      /> -->
-  </div>
-  <div class="darkRed-bg text-white">
+  <aside class="darkRed-bg text-white">
     <div class="container py-3 pb-5 pt-5">
       <p class="m-0 text-center h4 lh-base ">
         Could you use a fresh set of eyes on your organization processes that could benefit from automation?<br><br>
@@ -87,10 +78,10 @@
         University’s Information Systems courses!
       </p>
     </div>
-  </div>
-  <div class="homePageBody mt-5">
+  </aside>
+  <main class="homePageBody mt-5">
     <h1>Work With Us!</h1>
-    <h5 class="fw-normal lh-base mt-5 mb-5">
+    <p class="fw-normal lh-base mt-5 mb-5">
       Since 2015, the Information Systems course at Carnegie Mellon University has worked with community partners to
       create sustainable and applicable information systems solutions that seek to bridge the digital divide.
       <br><br>
@@ -108,7 +99,7 @@
 
       Explore the links below to get a more detailed look into What a Community Partner Is and what solutions past IS
       students have helped develop.
-    </h5>
+    </p>
 
     <div class="container">
       <div class="row">
@@ -128,16 +119,16 @@
     </div>
 
     <h1>Courses to Partner With</h1>
-    <h5 class="fw-normal lh-base mt-5 mb-5">
+    <p class="fw-normal lh-base mt-5 mb-5">
       If you are interested and would like to know more about partnering with a specific course, click below.
-    </h5>
+    </p>
     <div class="container mb-5">
       <div class="row">
 
         <div class="col-lg-6">
           <a href="consulting.html">
             <div class="img-container hover-overlay ripple shadow-1-strong rounded" data-mdb-ripple-color="light">
-              <img src="assets/img/learnMorePage/consultingBg.jpg" alt="">
+              <img src="assets/img/learnMorePage/consultingBg.jpg" alt="consultingImg">
               <div class="img-footer">
                 <p class="courseText">67-373: <br>Information Systems Consulting Project Course (Spring )</p>
               </div>
@@ -147,7 +138,7 @@
         <div class="col-lg-6">
           <a href="webdesign.html">
             <div class="img-container">
-              <img src="assets/img/learnMorePage/webdevBg.jpg" alt="">
+              <img src="assets/img/learnMorePage/webdevBg.jpg" alt="webdevImg">
               <div class="img-footer">
                 <p class="courseText">67-240: <br>Mobile Web Design & Development Course
                   (Fall)</p>
@@ -157,43 +148,42 @@
         </div>
       </div>
     </div>
-  </div>
-
+  </main>
   <div class="container-fluid bgGray mt-5">
     <div class="container py-4">
-      <img src="./assets/img/cmu-wordmark-horizontal-k.svg" class="img-fluid mt-3" alt="" />
+      <img src="./assets/img/cmu-wordmark-horizontal-k.svg" class="img-fluid mt-3" alt="CMU text" />
       <div class="row justify-content-between ">
         <div class="col-lg-3 col-md-6 my-3 text-white">
-          <h5 class="fw-bold mt-3">Address</h5>
-          <h5 class="fw-light">
+          <p class="fw-bold mt-3">Address</p>
+          <p class="fw-light">
             Information Systems Program at Carnegie Mellon University 5000 Forbes
             Avenue, Pittsburgh, PA 15213
-          </h5>
+          </p>
         </div>
         <div class="col-lg-3 col-md-6 my-3 text-white">
-          <h5 class="fw-bold mt-3">Email</h5>
-          <h5 class="fw-light m-0 my-2">
+          <p class="fw-bold mt-3">Email</p>
+          <p class="fw-light m-0 my-2">
             <a href="mailto:jpoeppin@andrew.cmu.edu">jpoeppin@andrew.cmu.edu</a>
-          </h5>
+          </p>
 
           <!-- <h5 class="fw-light m-0 my-2">
               <a href="mailto:joemertz@cmu.edu">joemertz@cmu.edu</a>
             </h5> -->
         </div>
         <div class="col-lg-2 col-md-6 my-3 text-white">
-          <h5 class="fw-bold mt-3">Contact</h5>
-          <h5 class="fw-light m-0 my-2">(412) 268-3259</h5>
+          <p class="fw-bold mt-3">Contact</p>
+          <p class="fw-light m-0 my-2">(412) 268-3259</p>
           <div class="d-flex socialGap">
             <a href="https://www.instagram.com/cmu_is/" target="_blank"><img src="./assets/img/insta-icon.png"
-                alt="" /></a>
+                alt="IS Instagram" /></a>
             <a href="https://www.linkedin.com/school/carnegie-mellon-university---h.-john-heinz-iii-college/"
-              target="_blank"><img src="./assets/img/linkedin-icon.png" alt="" /></a>
+              target="_blank"><img src="./assets/img/linkedin-icon.png" alt="IS LinkedIn" /></a>
             <a href="https://www.cmu.edu/information-systems/" target="_blank"><img src="./assets/img/gmail-icon.png"
-                alt="" /></a>
+                alt="IS Gmail" /></a>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 my-3 text-white">
-          <img src="./assets/img/dog.png" class="img-fluid dog" alt="" />
+          <img src="./assets/img/dog.png" class="img-fluid dog" alt="scottyDog" />
         </div>
       </div>
       <div class="col-lg-9 my-3">
