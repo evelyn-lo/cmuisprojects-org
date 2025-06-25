@@ -627,17 +627,23 @@ h1{
 }
 
 .additional-text1 {
-  position: absolute;
+  position: relative;
   left: 0;
-  top: 20px;
   text-transform: uppercase;
-}
-.additional-text2 {
-  position: absolute;
-  left: 0;
-  top: 45px;
   font-size: 14px;
+  margin-left: 0;
+  padding-left: 0;
+  text-indent: 0;
 }
+
+
+.additional-text2 {
+  font-style: italic;
+  font-size: 14px;
+  color: #666;
+}
+  
+
 
 .dropdown-toggle::after {
   display: none;
@@ -1087,6 +1093,12 @@ div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
   user-select: none;
   z-index: 1;
 }
+
+strong {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+
 
 .projectsHeight{
   min-height: 50vh;
