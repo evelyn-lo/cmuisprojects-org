@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $.getJSON("./assets/js/projects.json", function (data) {
+    $.getJSON("./assets/js/project-data.json", function (data) {
         let sdgCounts = {};
 
         // Count occurrences of each SDG tag

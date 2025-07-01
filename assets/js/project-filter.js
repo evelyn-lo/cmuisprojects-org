@@ -82,7 +82,7 @@ $("#popup").click(function (event) {
 
 $.ajax({
   cache: false,
-  url: "./assets/js/projects.json",
+  url: "./assets/js/project-data.json",
   dataType: "json",
   success: function (data) {
 
