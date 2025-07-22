@@ -53,31 +53,6 @@
   },
   {
     "id": 3,
-    "partner": "Accountability",
-    "year": "2015",
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Raul Figueroa"
-    ],
-    "students": [
-      "Alice Borie",
-      "Cindy Lai",
-      "Sangha Lee",
-      "Duncn McIsaac"
-    ],
-    "desc": "The team built a mobile friendly web application that construction industry workers can use as a means for quality control. This application forces engineers and quality assurance specialists to complete structural tests on individual building components. The application makes this information available to all users associated to a project and helps the project owner from being blindsided about potential building collapse risks. The application the team built is comprised of a strong visual front end so that engineers would have no difficulties using the system. The system is designed in such a way to prevent cheating when importing project information and completing tests. With this application, construction professionals are able to see which engineers and architects have a history of safely constructed buildings.",
-    "logo": "assets/img/project_logos/spring2015/50.jpg",
-    "sdg": [
-      ""
-    ],
-    "tech": [
-      ""
-    ]
-  },
-  {
-    "id": 4,
     "partner": "YMCA of Greater Pittsburgh",
     "year": "2016",
     "course": [
@@ -101,7 +76,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "partner": "United Mitochondrial Disease Foundation",
     "year": "2016",
     "course": [
@@ -127,7 +102,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "partner": "Pennsylania Resources Council",
     "year": "2016",
     "course": [
@@ -153,29 +128,7 @@
     ]
   },
   {
-    "id": 7,
-    "partner": "Beverly's Birthdays",
-    "year": "2016",
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      ""
-    ],
-    "students": [
-      ""
-    ],
-    "desc": "",
-    "logo": "assets/img/project_logos/spring2016/63.jpg",
-    "sdg": [
-      ""
-    ],
-    "tech": [
-      ""
-    ]
-  },
-  {
-    "id": 8,
+    "id": 6,
     "partner": "Best of the Batch Foundation",
     "year": "2016",
     "course": [
@@ -199,7 +152,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 7,
     "partner": "Beaver County Humane Society",
     "year": "2016",
     "course": [
@@ -225,7 +178,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 8,
     "partner": "CMU Spring Carnival Committee",
     "year": "2017",
     "course": [
@@ -250,7 +203,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 9,
     "partner": "CMU Athletics",
     "year": "2017",
     "course": [
@@ -275,7 +228,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 10,
     "partner": "Auberle",
     "year": "2017",
     "course": [
@@ -289,7 +242,7 @@
       "Matt Gruber",
       "RhoEun Song"
     ],
-    "desc": "Our goal was to create a scheduling system that can be integrated through a responsive web application. The system would consolidate all children’s schedules into one system that can be updated by case specialists and admins, and accessed by case aides. Based on the children’s schedules and the planned trips for the case aides, the system would be able to notify employees of canceled trips, when help is needed, and when schedules are submitted for approval to the administrators. We created our solution using a Ruby on Rails application hosted on an IS department server, cmuisprojects.org, with a server provided by Auberle’s third party IT vendor (Ideal Integrations). The stakeholders for our application are the Foster Care Director, Ideal Integrations, the Director of Facilities and Operations, case specialists and aides, along with foster 31 families and childern. Our users are the Foster Care Directer - Suzi, case specialists, cae aides, and case managers.",
+    "desc": "Our goal was to create a scheduling system that can be integrated through a responsive web application. The system would consolidate all children’s schedules into one system that can be updated by case specialists and admins, and accessed by case aides. Based on the children’s schedules and the planned trips for the case aides, the system would be able to notify employees of canceled trips, when help is needed, and when schedules are submitted for approval to the administrators. We created our solution using a Ruby on Rails application hosted on an IS department server, cmuisprojects.org, with a server provided by Auberle’s third party IT vendor (Ideal Integrations). The stakeholders for our application are the Foster Care Director, Ideal Integrations, the Director of Facilities and Operations, case specialists and aides, along with foster 31 families and childern. ",
     "logo": "assets/img/project_logos/spring2017/80.jpg",
     "sdg": [
       ""
@@ -299,7 +252,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 11,
     "partner": "NOAA & Together WeCan",
     "year": "2018",
     "course": [
@@ -325,7 +278,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 12,
     "partner": "Harrison Middle School",
     "year": "2018",
     "course": [
@@ -351,7 +304,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 13,
     "partner": "412 Food Rescue",
     "year": "2019",
     "course": [
@@ -378,7 +331,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 14,
     "partner": "A Footbridge",
     "year": "2019",
     "course": [
@@ -403,7 +356,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 15,
     "partner": "Carnegie Mellon Robotics Institute",
     "year": "2019",
     "course": [
@@ -428,7 +381,35 @@
     ]
   },
   {
-    "id": 18,
+    "id": 16,
+    "partner": "East End Cooperative Ministry - SewForward Program",
+    "year": "2019",
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Hannah Moon",
+      "Tony Cortese",
+      "Kellie Wild"
+    ],
+    "students": [
+      "Cathy Dong",
+      "Zoe Teoh",
+      "Maggie Williams"
+    ],
+    "desc": "East End Cooperative Ministry serves vulnerable adults and at-risk children and youth throughout Pittsburgh through programs that provide nutrition assistance, housing services, behavioral health support, education and employment assistance. The CMU IS student team worked with the managing director of the EECM Sew Forward program. Sew Forward provides technical education, access to professional sewing machines, jobs, entrepreneurship training, and more, for exploring careers in the fields of sewing, tailoring and fashion design. The students used Salesforce.com to configure and implement the supply chain process for the Sew Forward business allowing them to track sewing projects from prospect to design to order to manufacture and billing.",
+    "logo": "assets/img/project_logos/spring2019/106.png",
+    "sdg": [
+      "equality",
+      "nopoverty"
+    ],
+    "tech": [
+      "softwareintegration",
+      "technologystrategy"
+    ]
+  },
+  {
+    "id": 17,
     "partner": "Quaker Valley Council of Governments",
     "year": "2019",
     "course": [
@@ -453,7 +434,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 18,
     "partner": "Sustainable Pittsburgh",
     "year": "2019",
     "course": [
@@ -480,7 +461,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 19,
     "partner": "Adagio Health",
     "year": "2020",
     "course": [
@@ -508,7 +489,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 20,
     "partner": "Children's Institute",
     "year": "2020",
     "course": [
@@ -537,7 +518,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 21,
     "partner": "East End Cooperative Ministry",
     "year": "2020",
     "course": [
@@ -563,7 +544,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 22,
     "partner": "Matt's Maker Space",
     "year": "2020",
     "course": [
@@ -589,7 +570,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 23,
     "partner": "Social Venture Partners Pittsburgh",
     "year": "2020",
     "course": [
@@ -616,7 +597,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 24,
     "partner": "Amachi Pittsburgh",
     "year": "2021",
     "course": [
@@ -643,7 +624,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 25,
     "partner": "Computer Reach",
     "year": "2021",
     "course": [
@@ -669,7 +650,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 26,
     "partner": "Greater Washington County Foodbank",
     "year": "2021",
     "course": [
@@ -696,7 +677,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 27,
     "partner": "Western Pennsylvania School for the Deaf",
     "year": "2021",
     "course": [
@@ -727,7 +708,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 28,
     "partner": "KidsVoice",
     "year": "2022",
     "course": [
@@ -758,7 +739,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 29,
     "partner": "Peoples Oakland",
     "year": "2022",
     "course": [
@@ -786,7 +767,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 30,
     "partner": "The Children's Home",
     "year": "2022",
     "course": [
@@ -811,7 +792,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 31,
     "partner": "Primate Portal",
     "year": "2022",
     "course": [
@@ -837,7 +818,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 32,
     "partner": "Filipino-American Association of Pittsburgh",
     "year": "2023",
     "course": [
@@ -862,7 +843,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 33,
     "partner": "PLUM",
     "year": "2023",
     "course": [
@@ -887,7 +868,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 34,
     "partner": "The Italian Garden Project",
     "year": "2023",
     "course": [
@@ -916,7 +897,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 35,
     "partner": "Big Brothers Big Sisters of Greater Pittsburgh",
     "year": "2024",
     "course": [
@@ -941,7 +922,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 36,
     "partner": "Project DREaM",
     "year": "2024",
     "course": [
@@ -966,7 +947,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 37,
     "partner": "CMU Regional Impact",
     "year": "2024",
     "course": [
@@ -998,7 +979,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 38,
     "partner": "Filipino American Association of Pittsburgh",
     "year": "2024",
     "course": [
@@ -1027,7 +1008,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 39,
     "partner": "First Tee Pittsburgh",
     "year": "2024",
     "course": [
@@ -1059,7 +1040,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 40,
     "partner": "Innovation Institute for Tomorrow",
     "year": "2024",
     "course": [
@@ -1087,7 +1068,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 41,
     "partner": "Sojourner House",
     "year": "2024",
     "course": [
@@ -1113,7 +1094,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 42,
     "partner": "Achieva",
     "year": "2025",
     "course": [
@@ -1141,7 +1122,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 43,
     "partner": "Battle of Homestead Foundation",
     "year": "2025",
     "course": [
@@ -1168,7 +1149,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 44,
     "partner": "Brandworth LLC",
     "year": "2025",
     "course": [
@@ -1204,7 +1185,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 45,
     "partner": "Christopher’s Kitchen",
     "year": "2025",
     "course": [
@@ -1237,7 +1218,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 46,
     "partner": "CORE (Ctr for Organ Recovery & Education)",
     "year": "2025",
     "course": [
@@ -1276,7 +1257,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 47,
     "partner": "Greater Valley Community Services",
     "year": "2025",
     "course": [
@@ -1301,7 +1282,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 48,
     "partner": "Moonshot Project Team (CMU)",
     "year": "2025",
     "course": [
@@ -1333,7 +1314,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 49,
     "partner": "Pittsburgh Hires Veterans",
     "year": "2025",
     "course": [
@@ -1363,7 +1344,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 50,
     "partner": "Queens Gambit",
     "year": "2025",
     "course": [
@@ -1394,7 +1375,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 51,
     "partner": "River Art Works",
     "year": "2025",
     "course": [
@@ -1428,7 +1409,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 52,
     "partner": "Sweetwater Center for the Arts",
     "year": "2025",
     "course": [
@@ -1456,7 +1437,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 53,
     "partner": "Wesley Family Services",
     "year": "2025",
     "course": [
@@ -1484,7 +1465,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 54,
     "partner": "Yoga in Sewickley",
     "year": "2025",
     "course": [
@@ -1516,7 +1497,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 55,
     "partner": "YWCA Greater Pittsburgh",
     "year": "2025",
     "course": [
