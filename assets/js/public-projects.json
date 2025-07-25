@@ -16,7 +16,7 @@
       "Tommy Hung",
       "Sky Kaye"
     ],
-    "desc": "Improve the user’s experience to conform to performance expectations and incentivize the user to return to the site in the future frequently. The goal for this project is to elevate the current developing application to a system that encourages users to return to the site, become curious about the time period, seek to contribute and leverage the system to independently 11 conducted research. We believe the most value can be added through improving the user experience by fixing deployment issues and running user experience testing because these are the most critical factors in user retention.",
+    "desc": "Six Degrees of Francis Bacon is a web site created by CMU English Professor, Stephan Wittek. The tool is a visual network diagram showing how various authors and historical figures are related to Sir Francis Bacon, a 15th century British philosopher. The CMU student team worked to Improve the user experience and retention to encourage users to return to the site, become curious about the time period, seek to contribute and leverage the system.",
     "logo": "assets/img/project_logos/spring2015/41.jpg",
     "sdg": [
       ""
@@ -66,7 +66,7 @@
       "Derek Hirata",
       "Yeon Soo Kim"
     ],
-    "desc": "Our project aims to overhaul the current process of taking attendance at the YMCA. Rather than using three different attendance sheets, the system would be capable of keeping track of attendance on a single sheet for each program. The system is integrated into the existing databases that the YMCA uses for attendance and other metrics -- Daxko, PELICAN, Apricot -- and generates reports for administrative use.",
+    "desc": "The YMCA of Greater Pittsburgh offers a variety of camps for children, providing a safe and fun environment for kids to explore, grow, and build confidence. The CMU student project updated the attendance tracking process at the YMCA summer camp. The system is integrated into the existing databases that the YMCA uses for attendance and generates reports for administrative use.",
     "logo": "assets/img/project_logos/spring2016/51.jpg",
     "sdg": [
       ""
@@ -92,7 +92,7 @@
       "Lois Yang",
       "Eric Yu"
     ],
-    "desc": "Our goal is to revamp the site such that the Path to a Cure site is more animated, intuitive, and interactive by educating first time users what Mitochondrial Disease is and entails, add milestones of achievements that the UMDF has made, and offering more customization to the bricks. This way, we can attract, educate, and retain new donors to the site. Combining the Path to a Cure site with their home site will save them money.",
+    "desc": "The United Mitochondrial Disease Foundation promotes research and education for the diagnosis, treatment and cure of mitochondrial disorders and provides support to affected individuals and families. The student team revamped the “Path to a Cure” site to make it more animated, intuitive, and interactive.",
     "logo": "assets/img/project_logos/spring2016/52.jpg",
     "sdg": [
       ""
@@ -142,7 +142,7 @@
       "Shreeyagaya Khemka",
       "Sung Jin Kim"
     ],
-    "desc": "Our vision for this project was threefold: enabling data persistency, enhancing security, and building admin features. To enable data persistence, we created accounts for guardians and volunteers so that they could access and edit their information from year to year. For enhancing security, we established that satisfying brakeman tests and removing data once it has been signed off on, are appropriate security measures for this project. In terms of building admin features we provided additional analytics and a revised team management system.",
+    "desc": "Best of the Batch Foundation is a nonprofit organization founded in 1999 by former Pittsburgh Steelers quarterback Charlie Batch. It provides year-round educational programming to more than 4,000 children ages 5 to 18 across nine western Pennsylvania counties. The student project enabled data persistence, allowing guardians and volunteers to edit their information from year to year, enhanced security features and provided analytics for a revised team management system.",
     "logo": "assets/img/project_logos/spring2016/64.jpg",
     "sdg": [
       ""
@@ -193,7 +193,7 @@
       "Bruce Lin",
       "Rumby Wilson"
     ],
-    "desc": "We propose to first robustly test the application models and fix the 6 high-priority GitHub issues that are bug and security related. We aim to use this as a fundamental version of the application that is stable and free of functional errors. The next step is to build a notification feature in conjunction with the existing features to alert the users under different situations. For SCC members, the notification feature alerts them when a note is posted to a member. For student users, the feature alerts them when a requested tool becomes available, when a watch shift is imminent, and when organization starts downtime.",
+    "desc": "CMU Carnival is an annual Spring tradition where student groups build booths with a carnival theme. The event is managed by a student committee.  For the IS project, the students made improvements to the Spring Carnival management software by testing the application models and fixing the high-priority bugs and security issues. They then added a notification feature for both committee members and student booth builders.",
     "logo": "assets/img/project_logos/spring2017/74.jpg",
     "sdg": [
       ""
@@ -218,7 +218,7 @@
       "Clara Kim",
       "Andrew Wang"
     ],
-    "desc": "Our vision is to implement a web application that will increase the reliability and efficiency of the equipment rental process. With the planned web application, CMU Athletics will be able to reliably track who rents out what equipment and when the equipment is rented out. This will allow the organization to ensure that the equipment is returned and customer rental information is tracked. The student employees working at the equipment desk will also be able to improve the efficiency in which equipment is checked out and checked in. This will be done by reducing the human input and automating much of the information tracked in the system.",
+    "desc": "CMU Athletics rents out equipment to club teams and intramural activities. The students implemented a web application to increase the reliability and efficiency of the equipment rental process. ",
     "logo": "assets/img/project_logos/spring2017/76.jpg",
     "sdg": [
       ""
@@ -242,7 +242,7 @@
       "Matt Gruber",
       "RhoEun Song"
     ],
-    "desc": "Our goal was to create a scheduling system that can be integrated through a responsive web application. The system would consolidate all children’s schedules into one system that can be updated by case specialists and admins, and accessed by case aides. Based on the children’s schedules and the planned trips for the case aides, the system would be able to notify employees of canceled trips, when help is needed, and when schedules are submitted for approval to the administrators. We created our solution using a Ruby on Rails application hosted on an IS department server, cmuisprojects.org, with a server provided by Auberle’s third party IT vendor (Ideal Integrations). The stakeholders for our application are the Foster Care Director, Ideal Integrations, the Director of Facilities and Operations, case specialists and aides, along with foster 31 families and childern. ",
+    "desc": "Auberle is an effective, innovative, holistic, and collaborative human service nonprofit serving individuals of all ages offering services in Workforce Development, Housing, Young Adult Services, Foster Care, and Behavioral Health. The students created a scheduling system that integrated with their responsive web application. The stakeholders for the application are the Foster Care Director, Ideal Integrations, the Director of Facilities and Operations, case specialists and aides, along with foster 31 families and children.",
     "logo": "assets/img/project_logos/spring2017/80.jpg",
     "sdg": [
       ""
@@ -294,7 +294,7 @@
       "Sydney Bauer",
       "Renhao Hu"
     ],
-    "desc": "We will be developing a two-part information system to collect data about student experience and learning for Harrison Middle School students and the IKS Highlander mission director. This information system will consist of collecting student metrics about both soft and hard skills and generating reports for funding petitions and simulation/Mission Ops improvements. This is the first solution to be developed for the school, and there are currently no alternative technological solutions. Instead, feedback is sparingly collected in the form of written essays completed at the end of each simulation.",
+    "desc": "Harrison Middle School in Baldwin-Whitehall runs a science education space mission simulation called IKS Highlander. The CMU students automated the data collection on student experience and generated reports to support grant requests to further enhance the space simulation/Mission Ops improvements. ",
     "logo": "assets/img/project_logos/spring2018/90.png",
     "sdg": [
       ""
@@ -504,7 +504,7 @@
       "Vivian Huang",
       "Michelle Lim"
     ],
-    "desc": "We envisioned a simple, easy-to-use system for employee nomination. We want to streamline the approval process for employees instead of having week- or month-long delays. We want to be able to easily appreciate the employees who have been recognized widely by many of their peers. Most importantly, we want to highlight exceptional employees and provide them with a meaningful and sizable suite of perks to incentivize their hard work.",
+    "desc": "The Children’s Institute helps more than 7,400 children and families each year reach their full potential through educational services, autism services, outpatient physical and behavioral health services, early intervention, and family support services. The students created a solution for employee recognition to highlight exceptional employees and provide them with a meaningful and sizable suite of perks to incentivize their hard work.",
     "logo": "assets/img/project_logos/spring2020/8.jpg",
     "sdg": [
       "equality",
@@ -519,32 +519,6 @@
   },
   {
     "id": 21,
-    "partner": "East End Cooperative Ministry",
-    "year": "2020",
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Lauren Boyle",
-      "Michael Bartley"
-    ],
-    "students": [
-      "Emmet Mack",
-      "Jordan Reichgut",
-      "Bobby Zhang"
-    ],
-    "desc": "East End Cooperative Ministry is a Pittsburgh organization whose mission is to reduce the effects of poverty in the community. It offers a food pantry, community lunches, rehabilitation, and youth programs. Our application automatically enters donations from its online donation system to its database system. This project provides value by saving the EECM employees time and ensuring that their database records are accurate.",
-    "logo": "assets/img/project_logos/spring2020/9.png",
-    "sdg": [
-      "nopoverty",
-      "zerohunger"
-    ],
-    "tech": [
-      "api"
-    ]
-  },
-  {
-    "id": 22,
     "partner": "Matt's Maker Space",
     "year": "2020",
     "course": [
@@ -570,7 +544,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 22,
     "partner": "Social Venture Partners Pittsburgh",
     "year": "2020",
     "course": [
@@ -597,7 +571,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 23,
     "partner": "Amachi Pittsburgh",
     "year": "2021",
     "course": [
@@ -624,7 +598,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 24,
     "partner": "Computer Reach",
     "year": "2021",
     "course": [
@@ -650,7 +624,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 25,
     "partner": "Greater Washington County Foodbank",
     "year": "2021",
     "course": [
@@ -664,7 +638,7 @@
       "Shalini Rao",
       "Max Dunaevschi"
     ],
-    "desc": "The goal of this project was to improve data entry and inventory management, saving time and effort for the GWCFB staff and streamlining the reporting process for funding agencies. To accomplish this, the project aimed to reduce the number of human errors and improve efficiency in the data entry process for food donation and distribution. The solution was to find and document a new inventory management system to be implemented in place of their current accounting software. This includes a mobile application with scanning capability, as well as a website platform. Our stakeholders were the Greater Washington County Food Bank, its employees, the patrons that rely on the food bank, donors to the food bank, and volunteers. Our solution saves the organization time, limits human errors, and helps reduce food waste from untracked, expired donations.",
+    "desc": "The Greater Washington County Food Bank provides the community with food assistance, education, and resources to help families achieve long-term food security in Washington, PA. The student project improved data entry and inventory management, saving time and effort for the GWCFB staff and streamlining the reporting process for funding agencies. The students found and documented a new inventory management system to be implemented in place of their current accounting software. The software includes a mobile application with scanning capability, as well as a website platform.",
     "logo": "assets/img/project_logos/spring2021/11.jpeg",
     "sdg": [
       "promotehealth",
@@ -677,7 +651,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 26,
     "partner": "Western Pennsylvania School for the Deaf",
     "year": "2021",
     "course": [
@@ -708,7 +682,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 27,
     "partner": "KidsVoice",
     "year": "2022",
     "course": [
@@ -739,7 +713,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 28,
     "partner": "Peoples Oakland",
     "year": "2022",
     "course": [
@@ -767,7 +741,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 29,
     "partner": "The Children's Home",
     "year": "2022",
     "course": [
@@ -792,7 +766,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 30,
     "partner": "Primate Portal",
     "year": "2022",
     "course": [
@@ -818,32 +792,7 @@
     ]
   },
   {
-    "id": 32,
-    "partner": "Filipino-American Association of Pittsburgh",
-    "year": "2023",
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Leilani Mears"
-    ],
-    "students": [
-      "Lea De Vylder",
-      "Michelle Liu",
-      "Alex Barrios"
-    ],
-    "desc": "The Filipino-American Association of Pittsburgh's mission is to preserve, promote, and perpetuate the Filipino heritage among its members and the general public through cultural, charitable, and educational activities. The CMU IS students improved their data management due to their lack of centralization and automation. The result was an improved website with automated data collection and transfer of legacy data into their new system.",
-    "logo": "assets/img/project_logos/spring2023/8.jpg",
-    "sdg": [
-      "equality",
-      "peaceandinclusion"
-    ],
-    "tech": [
-      "databasesolution"
-    ]
-  },
-  {
-    "id": 33,
+    "id": 31,
     "partner": "PLUM",
     "year": "2023",
     "course": [
@@ -868,7 +817,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 32,
     "partner": "The Italian Garden Project",
     "year": "2023",
     "course": [
@@ -897,7 +846,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 33,
     "partner": "Big Brothers Big Sisters of Greater Pittsburgh",
     "year": "2024",
     "course": [
@@ -922,7 +871,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 34,
     "partner": "Project DREaM",
     "year": "2024",
     "course": [
@@ -947,7 +896,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 35,
     "partner": "CMU Regional Impact",
     "year": "2024",
     "course": [
@@ -979,7 +928,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 36,
     "partner": "Filipino American Association of Pittsburgh",
     "year": "2024",
     "course": [
@@ -1008,7 +957,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 37,
     "partner": "First Tee Pittsburgh",
     "year": "2024",
     "course": [
@@ -1022,7 +971,7 @@
       "Will Squibb",
       "Yuvanshu Agarwal"
     ],
-    "desc": "First Tee is a youth development organization introducing the game of golf and its inherent values to young people. During bad weather, First Tee Pittsburgh coaches often need to cancel golf classes and must notify the participants as soon as possible, which can be quite an arduous task. To solve this, the CMU IS Student team created a user-friendly application that allows First Tee PIttsburgh coaches to send mass text and email notifications to class participants in case sudden cancellations with just the click of a few buttons.",
+    "desc": "First Tee is a youth development organization introducing the game of golf and its inherent values to young people. During bad weather, First Tee Pittsburgh coaches often need to cancel golf classes and must notify the participants as soon as possible, which can be quite an arduous task. To solve this, the CMU IS Student team created a user-friendly application that allows First Tee PIttsburgh coaches to send mass text and email notifications to class participants in case sudden cancellations with just the click of a few buttons.",
     "logo": "assets/img/project_logos/spring2024/firstteepittsburgh.png",
     "sdg": [
       "equality",
@@ -1040,7 +989,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 38,
     "partner": "Innovation Institute for Tomorrow",
     "year": "2024",
     "course": [
@@ -1068,7 +1017,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 39,
     "partner": "Sojourner House",
     "year": "2024",
     "course": [
@@ -1094,7 +1043,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 40,
     "partner": "Achieva",
     "year": "2025",
     "course": [
@@ -1122,7 +1071,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 41,
     "partner": "Battle of Homestead Foundation",
     "year": "2025",
     "course": [
@@ -1149,7 +1098,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 42,
     "partner": "Brandworth LLC",
     "year": "2025",
     "course": [
@@ -1185,7 +1134,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 43,
     "partner": "Christopher’s Kitchen",
     "year": "2025",
     "course": [
@@ -1218,7 +1167,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 44,
     "partner": "CORE (Ctr for Organ Recovery & Education)",
     "year": "2025",
     "course": [
@@ -1257,7 +1206,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 45,
     "partner": "Greater Valley Community Services",
     "year": "2025",
     "course": [
@@ -1271,7 +1220,7 @@
       "Eric Lin",
       "John Crawshaw"
     ],
-    "desc": "Educating people about interactions with autistic individual. We created a online course using Wix with videos, readings, and quizzes. The project spreads knowledge about how to interact with autistic individuals to a wider groups by making the courses easily accessible and available to a wider public.",
+    "desc": "Greater Valley Community Services (GVCS) is a non-profit organization that provides services for all ages centered around Health & Wellness, Education, and Families. The students worked with a new program called The James Project, focused on educating people about interactions with autistic individuals. They created an online course using Wix with videos, readings, and quizzes. The courses are easily accessible and available to a wider public than the prior in-person classes.",
     "logo": "assets/img/project_logos/spring2025/17.png",
     "sdg": [
       "QualityEducation"
@@ -1282,7 +1231,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 46,
     "partner": "Moonshot Project Team (CMU)",
     "year": "2025",
     "course": [
@@ -1314,7 +1263,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 47,
     "partner": "Pittsburgh Hires Veterans",
     "year": "2025",
     "course": [
@@ -1344,7 +1293,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 48,
     "partner": "Queens Gambit",
     "year": "2025",
     "course": [
@@ -1358,7 +1307,7 @@
       "Jorge Urias",
       "Vy Tran"
     ],
-    "desc": "Queens Gambit is a nonprofit dedicated to empowering underserved youth, particularly girls and students of color, through chess education and leadership development. Our team developed a branded internal rating and leaderboard system to help the organization track student progress without relying on costly United States Chess Federation (USCF) memberships. This solution makes it easier for instructors to run tournaments and record match results, increasing student engagement and supporting long-term program growth.",
+    "desc": "Queens Gambit is a nonprofit dedicated to fostering community through chess education and leadership development. The CMU student team developed a branded internal rating and leaderboard system to help the organization track student progress without relying on costly United States Chess Federation (USCF) memberships. This solution makes it easier for instructors to run tournaments and record match results, increasing student engagement and supporting long-term program growth.",
     "logo": "assets/img/project_logos/spring2025/27.png",
     "sdg": [
       "NoPoverty",
@@ -1375,7 +1324,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 49,
     "partner": "River Art Works",
     "year": "2025",
     "course": [
@@ -1409,7 +1358,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 50,
     "partner": "Sweetwater Center for the Arts",
     "year": "2025",
     "course": [
@@ -1437,7 +1386,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 51,
     "partner": "Wesley Family Services",
     "year": "2025",
     "course": [
@@ -1465,7 +1414,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 52,
     "partner": "Yoga in Sewickley",
     "year": "2025",
     "course": [
@@ -1497,7 +1446,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 53,
     "partner": "YWCA Greater Pittsburgh",
     "year": "2025",
     "course": [
